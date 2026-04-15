@@ -1,0 +1,37 @@
+{
+  "name": "SkyStream Universe Repository",
+  "description": "SkyStream Universe plugins repository",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "SkyStream Plugins Repo",
+      "url": "https://raw.githubusercontent.com/akashdh11/skystream-plugins/main/repo.json",
+      "version": 1
+    },
+    {
+      "name": "Cricify SkyStream",
+      "url": "https://raw.githubusercontent.com/akashdh11/Cricify-SkyStream-plugins/main/repo.json",
+      "version": 1
+    },
+    {
+      "name": "CNCVerse Extension",
+      "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Sky-Stream-Extension/main/repo.json",
+      "version": 1
+    },
+    {
+      "name": "Hindmovie Repo",
+      "url": "https://raw.githubusercontent.com/likhithkrishna1103-tech/Hindmovie/main/repo.json",
+      "version": 1
+    },
+    {
+      "name": "FeliStream Repo",
+      "url": "https://raw.githubusercontent.com/RizkyM2999/FeliStream/main/repo.json",
+      "version": 1
+    },
+    {
+      "name": "Jujutsu Plugins",
+      "url": "https://raw.githubusercontent.com/jujutstukaisen9/skystream-plugins/repo/repo.json",
+      "version": 1
+    }
+  ]
+}
